@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**nyrulna/nyrulna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jordan, an accounting graduate looking to learn more about the world of data science.
 
-Here are some ideas to get you started:
+I am currently a freelance business analyst that primarily support content creators and people in my community through data-driven decisions. However, I am looking for a fulltime position within this space as I would like to develop my professional skillset.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I am interested in art(movies, video games, visual, music), sports, and keeping up in the world of tech/science. 
+
+Let's connect!
+
+
+https://www.linkedin.com/in/jordan-chong/
+
+
