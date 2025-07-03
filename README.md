@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Jordan, an accounting graduate looking to learn more about the world of data science.
+I'm Jordan, an accounting graduate exploring the world of data science.
 
 Currently I work as a freelance business analyst, primarily support content creators and members of my community by helping them make data-driven decisions.I am now seeking full-time opportunities within this space as I would like to develop my professional skillset.
 
