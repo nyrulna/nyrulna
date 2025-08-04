@@ -1,4 +1,5 @@
-## Hi there 
+## Hi there (https://github.com/user-attachments/assets/0b160ddf-0f4a-40e1-88cb-3228720ada16)
+
 
 I'm Jordan, an accounting graduate exploring the world of data analytics.
 
