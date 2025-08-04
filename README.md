@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 I'm Jordan, an accounting graduate exploring the world of data analytics.
 
