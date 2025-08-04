@@ -1,4 +1,4 @@
-## Hi there <img src="https://user-images.githubusercontent.com/youruserid/imagename.png" alt="Hi image" style="height:24px;">
+## Hi there 👋
 
 
 I'm Jordan, an accounting graduate exploring the world of data analytics.
