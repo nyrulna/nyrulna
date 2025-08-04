@@ -1,4 +1,4 @@
-## Hi there ![!](https://github.com/user-attachments/assets/0b160ddf-0f4a-40e1-88cb-3228720ada16)
+## Hi there <img src="https://user-images.githubusercontent.com/youruserid/imagename.png" alt="Hi image" style="height:24px;">
 
 
 I'm Jordan, an accounting graduate exploring the world of data analytics.
